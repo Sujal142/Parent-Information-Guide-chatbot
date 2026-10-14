@@ -1,0 +1,8 @@
+{
+  "name": "Parent Information Guide - AI Chatbot",
+  "description": "An intelligent Parent Information Guide chatbot for B.Tech Computer Engineering (TY CIE AI Project) offering instant academic insights, CIE schedules, attendance tracking, and downloadable Python project kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
